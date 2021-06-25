@@ -1,0 +1,14 @@
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/services/UserService.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/controller/JwtAuthenticationController.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/models/JwtRequest.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/config/JwtAuthenticationEntryPoint.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/repository/UserRepository.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/models/User.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/ServletInitializer.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/models/JwtResponse.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/config/JwtTokenUtil.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/controller/UserController.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/config/WebSecurityConfig.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/JavamysqlapiApplication.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/config/JwtRequestFilter.java
+/Users/reynald/My-Programs/Java/javamysqlapi/src/main/java/com/springboot/api/javamysqlapi/services/JwtUserDetailsService.java
