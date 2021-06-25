@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.springboot.api.javamysqlapi.JavamysqlapiApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.57 s - in com.springboot.api.javamysqlapi.JavamysqlapiApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.011 s - in com.springboot.api.javamysqlapi.JavamysqlapiApplicationTests
